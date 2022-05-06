@@ -1,8 +1,11 @@
 {
-  "name": "turf-merge-cli",
+  "name": "merge-geojson-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "bin": {
+    "merge-geojson": "cli.js"
+  },
   "type": "module",
   "scripts": {
     "start": "node index.js",
