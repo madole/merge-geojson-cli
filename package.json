@@ -1,0 +1,19 @@
+{
+  "name": "turf-merge-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@turf/combine": "^6.5.0",
+    "@turf/helpers": "^6.5.0",
+    "prettier": "^2.6.2"
+  }
+}
